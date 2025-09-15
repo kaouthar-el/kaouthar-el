@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Salut, je suis kaouthar El mansouri 
 
-<!--
-**kaouthar-el/kaouthar-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Basée à **Mohammedia, Maroc**  
+💻 Développeuse **Front-end & Full-stack junior** avec expérience en projets web et mobiles.  
+✨ Passionnée par la création d’interfaces modernes, performantes et intuitives.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Compétences
+- **Langages :** JavaScript, TypeScript, PHP, SQL, HTML5, CSS3  
+- **Frameworks / Outils :** React.js, Next.js, Laravel, Spring Boot, Git, Docker  
+- **Mobile :** React Native (bases)  
+
+---
+
+## 📊 Statistiques GitHub
+![Kaouthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=radical)
+
+---
+
+## 🌱 Actuellement en apprentissage
+- Next.js avancé  
+- Développement mobile avec React Native  
+- Optimisation des performances web  
+
+---
+
+## 📫 Me contacter
+- ✉️ Email : **votre.email@example.com**  
+- 💼 LinkedIn : [linkedin.com/in/votreprofil](https://linkedin.com)  
+
+---
+
+⭐️ From [kaouthar-el](https://github.com/kaouthar-el)
