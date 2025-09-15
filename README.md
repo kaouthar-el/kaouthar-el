@@ -1,7 +1,7 @@
 # 👋 Salut, je suis kaouthar El mansouri 
 
 🌍 Basée à **Mohammedia, Maroc**  
-💻 Développeuse **Front-end & Full-stack junior** avec expérience en projets web et mobiles.  
+💻 Développeuse **Front-end & Full-stack bac+2** avec expérience en projets web et mobiles.  
 ✨ Passionnée par la création d’interfaces modernes, performantes et intuitives.  
 
 ---
