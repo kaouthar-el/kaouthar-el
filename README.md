@@ -8,8 +8,8 @@
 
 ## 🚀 Compétences
 - **Langages :** JavaScript, TypeScript, PHP, SQL, HTML5, CSS3  
-- **Frameworks / Outils :** React.js, Next.js, Laravel, Spring Boot, Git, Docker  
-- **Mobile :** React Native (bases)  
+- **Frameworks / Outils :** React.js, Next.js, Laravel, Spring Boot, Git  
+- **Mobile :** React Native 
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Me contacter
-- ✉️ Email : **votre.email@example.com**  
+- ✉️ Email : **kaoutharelmansouri@gmail.com**  
 - 💼 LinkedIn : [linkedin.com/in/votreprofil](https://linkedin.com)  
 
 ---
