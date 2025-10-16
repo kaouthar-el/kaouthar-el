@@ -1,286 +1,204 @@
 <div align="center">
 
-<!-- Header Dynamique avec Typing Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=200&section=header&text=Kawtar%20Elmansouri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transforming%20Ideas%20into%20Digital%20Reality%20✨&descAlignY=55&descSize=16"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Expert+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social Badges avec Animation -->
-<p>
-  <a href="https://www.linkedin.com/in/kawtar-elmansouri">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  <a href="mailto:kawtar.elmansouri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-  </a>
-  <a href="https://github.com/kaouthar-el">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kaouthar-el&color=F75C7E&style=for-the-badge&label=Profile+Views"/>
-</p>
+<!-- Header avec animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Kawtar%20Elmansouri&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descSize=18"/>
 
 </div>
 
-<br/>
-
-<!-- About Section avec Design Moderne -->
 <div align="center">
   
-## 🌟 About Me
+### 👋 Bienvenue sur mon profil !
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+💼 **Développeuse Full Stack** chez **Jbel Nour** | 🎓 **Bac+2** en Développement Informatique  
+💡 Passionnée par la création d'applications web et mobiles élégantes et performantes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtar-elmansouri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawtar.elmansouri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaouthar-el)
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" align="center" style="border: none;">
-  
-### 🎯 Who Am I?
+---
 
-```typescript
-const kawtar = {
-    role: "Full Stack Developer",
-    company: "Jbel Nour",
-    location: "Casablanca, Morocco 🇲🇦",
-    education: "Bac+2 Computer Science",
-    passion: "Building Digital Experiences",
-    motto: "Code. Create. Innovate. 🚀"
-};
-```
+## 💫 À Propos
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Mon Parcours
+
+Développeuse Full Stack passionnée, je transforme des idées en applications web et mobiles performantes. Avec une solide formation en développement informatique et une expérience professionnelle enrichissante chez **Jbel Nour**, je maîtrise l'art de créer des solutions complètes du frontend au backend.
 
 </td>
-<td width="50%" align="center" style="border: none;">
+<td width="50%" valign="top">
 
-### 💫 What I Do?
+### 💡 Ma Vision
 
-I craft **elegant solutions** that blend  
-**functionality** with **beautiful design**
-
-🎨 Design stunning interfaces  
-⚡ Build lightning-fast applications  
-🔧 Architect scalable systems  
-📱 Create cross-platform experiences
+Je crois en la puissance du code élégant et des interfaces intuitives. Chaque projet est une opportunité d'apprendre, d'innover et de créer des expériences utilisateur exceptionnelles qui font la différence.
 
 </td>
 </tr>
 </table>
+</div>
 
-<br/>
-
-<!-- Tech Stack avec Style Moderne -->
 <div align="center">
 
-## 🛠️ Tech Arsenal
+### 🎯 Expertise Technique
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,php&theme=dark" />
-</p>
-
-### 🎨 Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,flutter,html,css,tailwind,bootstrap&theme=dark" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,&theme=dark" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,git,github,vscode,androidstudio,postman&theme=dark" />
-</p>
+```mermaid
+mindmap
+  root((Kawtar))
+    Mobile
+      React Native
+      Flutter
+      Expo
+    Frontend
+      React
+      Angular
+      TypeScript
+    Backend
+      Node.js
+      Laravel
+      Spring Boot
+    Database
+      MySQL
+      Oracle
+      SQLite
+```
 
 </div>
 
-<br/>
-
-<!-- GitHub Stats Section Moderne -->
 <div align="center">
 
-## 📊 GitHub Analytics
+**🌟 Spécialisations**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaouthar-el&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=10" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=kaouthar-el&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&combine_all_yearly_contributions=true" />
-</p>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaouthar-el&theme=github-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
+| Mobile Cross-Platform | Frontend Moderne | Backend Robuste | Architecture |
+|:---:|:---:|:---:|:---:|
+| React Native | React & Angular | Node.js & Laravel | Microservices |
+| Flutter | TypeScript | Spring Boot | RESTful APIs |
+| Expo | Tailwind CSS | Express.js | Base de données |
 
 </div>
 
-<br/>
+---
 
-<!-- Trophées Section -->
+## 🛠️ Technologies & Outils
+
 <div align="center">
 
-## 🏆 GitHub Trophies
+### Langages de Programmation
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaouthar-el&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+### Frameworks & Bibliothèques
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Bases de Données
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-<!-- Experience Section Moderne -->
+## 📊 Statistiques GitHub
+
 <div align="center">
 
-## 💼 Professional Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F&hide=contribs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F&hide=contribs" />
+</picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaouthar-el&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaouthar-el&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
+</picture>
 
 </div>
+
+<div align="center">
+
+### 📈 Activité & Langages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kaouthar-el&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaouthar-el&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
+</picture>
+
+</div>
+
+---
+
+
+## 💼 Expérience Professionnelle
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="100%">
-
-### 🚀 Full Stack Developer @ Jbel Nour
-
-**📍 Casablanca, Morocco** | **📅 2024 - Present**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 📱 Mobile
-
-- React Native
-- Flutter
-- Expo
-- Cross-Platform Apps
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🌐 Frontend
-
-- React & Angular
-- TypeScript
-- Tailwind CSS
-- Responsive Design
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚡ Backend
-
-- Node.js & Express
-- Spring Boot
-- Laravel
-- RESTful APIs
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Projects Section Ultra Moderne -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
-</div>
-
-<!-- Project Cards avec Style GitHub -->
-<div align="center">
-
-<a href="https://github.com/kaouthar-el/portfolio_">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=portfolio_&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kaouthar-el/Gestion-centre-de-formation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=Gestion-centre-de-formation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/kaouthar-el/portfolio_ChatBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=portfolio_ChatBot&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kaouthar-el/Repartition-Base-Donnees-BANK-Oracle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=Repartition-Base-Donnees-BANK-Oracle&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/kaouthar-el/Gestion-administratif-d-un-college">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=Gestion-administratif-d-un-college&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/kaouthar-el/Agence-de-voyage--LAHRECH---FAKHAM---AZLAG-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaouthar-el&repo=Agence-de-voyage--LAHRECH---FAKHAM---AZLAG-&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br/><br/>
-
-<!-- Current Focus Section -->
-<div align="center">
-
-## 🎯 Current Focus
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-<table>
-<tr>
-<td align="center" width="33%">
   
-### 🚀 Learning
-
-```yaml
-- Microservices
-- Spring Cloud
-- DevOps & CI/CD
-- Cloud Computing
-```
+**💻 Développeuse Full Stack** | Jbel Nour  
+📅 *2024 - Présent* | 📍 Casablanca, Maroc
 
 </td>
-<td align="center" width="33%">
+</tr>
+</table>
 
-### 🔨 Building
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-- Cross-Platform Apps
-- Personal Portfolio
-- E-Commerce Platform
-- Open Source Projects
-```
+### 🎯 Responsabilités
+
+- 📱 Développement d'applications mobiles cross-platform
+- 🌐 Création de sites web dynamiques et responsive
+- 🎨 Design d'interfaces utilisateur modernes
+- 🔧 Intégration d'APIs RESTful
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### 🌟 Growing
+### 🛠️ Stack Technique
 
-```yaml
-- Tech Community
-- Mentoring
-- Tech Blogging
-- Networking
-```
+- **Mobile:** React Native, Flutter, Expo
+- **Frontend:** React, Angular, TypeScript
+- **Backend:** Node.js, Laravel, Spring Boot
+- **Database:** MySQL, Oracle, SQLite
 
 </td>
 </tr>
@@ -288,66 +206,119 @@ I craft **elegant solutions** that blend
 
 </div>
 
-<br/>
+---
 
-<!-- Contribution Graph -->
+## 🚀 Projets Épinglés
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📂 [portfolio_](https://github.com/kaouthar-el/portfolio_)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+Un portfolio moderne et responsive pour présenter mon parcours, mes compétences et mes projets. Interface élégante avec animations fluides et design contemporain.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/portfolio_)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Gestion-centre-de-formation](https://github.com/kaouthar-el/Gestion-centre-de-formation)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Projet de Gestion de Centre de Formation décomposé en trois microservices utilisant Spring Cloud et Lombok. Architecture microservices moderne et scalable.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/Gestion-centre-de-formation)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [portfolio_ChatBot](https://github.com/kaouthar-el/portfolio_ChatBot)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Backend développé avec Spring Boot pour gérer le chatbot IA. Fournit les API REST pour les questions du chatbot avec intelligence artificielle intégrée.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/portfolio_ChatBot)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [Repartition-Base-Donnees-BANK-Oracle](https://github.com/kaouthar-el/Repartition-Base-Donnees-BANK-Oracle)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+Système bancaire distribué avec Oracle 11g. Répartition automatique des données entre sites géographiques avec synchronisation PL/SQL avancée.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/Repartition-Base-Donnees-BANK-Oracle)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 [Gestion-administratif-d-un-college](https://github.com/kaouthar-el/Gestion-administratif-d-un-college)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+Application Java de gestion administrative scolaire. Planification des salles, suivi des absences, gestion des élèves et enseignants avec interface Swing et MySQL.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/Gestion-administratif-d-un-college)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ [Agence-de-voyage--LAHRECH---FAKHAM---AZLAG-](https://github.com/kaouthar-el/Agence-de-voyage--LAHRECH---FAKHAM---AZLAG-)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+Site web d'agence de voyage avec système de réservation en ligne. Interface utilisateur intuitive pour la recherche et réservation de voyages.
+
+**🔗 [Voir le projet →](https://github.com/kaouthar-el/Agence-de-voyage--LAHRECH---FAKHAM---AZLAG-)**
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 Objectifs Actuels
+
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaouthar-el/kaouthar-el/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaouthar-el/kaouthar-el/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaouthar-el/kaouthar-el/output/github-contribution-grid-snake.svg">
-</picture>
+| 🚀 Apprentissage | 🔨 Projets | 🌟 Communauté |
+|:---:|:---:|:---:|
+| Microservices Architecture | Apps Cross-Platform | Open Source |
+| Spring Cloud | Portfolio Personnel | Mentorat |
+| DevOps & CI/CD | E-Commerce Platform | Tech Blogging |
 
 </div>
 
-<br/>
+---
 
-<!-- Contact Section -->
 <div align="center">
 
-## 💬 Let's Connect!
+### 📫 Me Contacter
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+Vous avez un projet en tête ? Une question ? N'hésitez pas à me contacter !
 
-**Got a project in mind? Let's make it happen! 🚀**
-
-<p>
-<a href="https://www.linkedin.com/in/kawtar-elmansouri">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kawtar.elmansouri@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/kaouthar-el">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtar-elmansouri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawtar.elmansouri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaouthar-el)
 
 </div>
 
-<br/>
+---
 
-<!-- Quote Section -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 
-</div>
+**✨ Créé avec 💖 par Kawtar Elmansouri**
 
-<br/>
-
-<!-- Footer -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=150&section=footer&animation=twinkling"/>
-
-<br/>
-
-**✨ Crafted with 💖 and ☕ by Kawtar Elmansouri**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+![](https://komarev.com/ghpvc/?username=kaouthar-el&color=F85D7F&style=flat-square&label=Visiteurs)
 
 </div>
