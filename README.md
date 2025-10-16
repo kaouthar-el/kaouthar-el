@@ -22,31 +22,11 @@
 
 ## 💫 À Propos
 
-```typescript
-const kawtar = {
-    role: "Full Stack Developer",
-    company: "Jbel Nour",
-    experience: "1 an",
-    location: "Casablanca, Maroc 🇲🇦",
-    education: "Bac+2 en Développement Informatique",
-    
-    expertise: {
-        mobile: ["React Native", "Flutter", "Expo"],
-        frontend: ["React", "Angular", "HTML/CSS", "Tailwind CSS"],
-        backend: ["Node.js", "Laravel", "Spring Boot", "PHP"],
-        databases: ["MySQL", "Oracle", "SQLite"]
-    },
-    
-    currentFocus: [
-        "🚀 Microservices avec Spring Cloud",
-        "📱 Développement mobile cross-platform",
-        "🎨 UI/UX Design moderne",
-        "🤝 Contribution Open Source"
-    ],
-    
-    funFact: "Je transforme le café ☕ en code élégant 💻"
-};
-```
+Développeuse Full Stack passionnée avec une solide formation en développement informatique et une expérience professionnelle chez Jbel Nour. Je me spécialise dans la création d'applications web et mobiles complètes, en maîtrisant à la fois le frontend et le backend.
+
+Mon expertise couvre le développement d'applications mobiles cross-platform avec React Native et Flutter, la création d'interfaces utilisateur modernes avec React et Angular, ainsi que le développement backend robuste avec Node.js, Laravel et Spring Boot. J'accorde une importance particulière à l'expérience utilisateur et à la qualité du code.
+
+Toujours en veille technologique, je cherche constamment à améliorer mes compétences et à relever de nouveaux défis dans le domaine du développement logiciel.
 
 ---
 
@@ -62,25 +42,34 @@ const kawtar = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend & Mobile
+### Frameworks & Bibliothèques
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### Bases de Données
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
+### Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -133,6 +122,30 @@ const kawtar = {
 
 ---
 
+## 🚀 Projets en Cours
+
+<div align="center">
+
+### 📱 Application E-Commerce Mobile
+**Technologies:** React Native, Node.js, MySQL  
+Application mobile de commerce électronique avec système de paiement intégré et gestion d'inventaire en temps réel.
+
+### 🌐 Plateforme de Gestion d'Événements  
+**Technologies:** Angular, Spring Boot, Oracle  
+Solution complète pour la planification et la gestion d'événements avec réservation en ligne et génération de billets.
+
+### 💼 Application de Gestion de Projets
+**Technologies:** Flutter, Laravel, SQLite  
+Outil de collaboration d'équipe avec tableaux Kanban, suivi du temps et reporting avancé.
+
+### 🔗 Système de Microservices
+**Technologies:** Spring Cloud, Docker, Redis  
+Architecture microservices pour une application distribuée avec gestion centralisée des configurations.
+
+</div>
+
+---
+
 ## 🎯 Objectifs Actuels
 
 <div align="center">
@@ -147,24 +160,7 @@ const kawtar = {
 
 ---
 
-## 📈 Activité de Développement
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
-  
-### 📫 Contactez-moi
-
-*Je suis toujours ouverte aux nouvelles opportunités et collaborations !*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawtar_Elmansouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtar-elmansouri)
-[![Email](https://img.shields.io/badge/Email-kawtar.elmansouri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawtar.elmansouri@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kawtarelmansouri)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=kawtarelmansouri&label=Vues%20du%20Profil&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 
