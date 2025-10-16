@@ -163,15 +163,6 @@ mindmap
 
 ---
 
-## 🏆 Réalisations
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kaouthar-el&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 💼 Expérience Professionnelle
 
