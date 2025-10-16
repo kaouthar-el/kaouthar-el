@@ -20,32 +20,47 @@
 
 ---
 
-## 💫 À Propos
+## 💫 À propos de moi  
 
-```typescript
-const kawtar = {
-    role: "Full Stack Developer",
-    company: "Jbel Nour",
-    experience: "1 an",
-    location: "Casablanca, Maroc 🇲🇦",
-    education: "Bac+2 en Développement Informatique",
-    
-    expertise: {
-        mobile: ["React Native", "Flutter", "Expo"],
-        frontend: ["React", "Angular", "HTML/CSS", "Tailwind CSS"],
-        backend: ["Node.js", "Laravel", "Spring Boot", "PHP"],
-        databases: ["MySQL", "Oracle", "SQLite"]
-    },
-    
-    currentFocus: [
-        "🚀 Microservices avec Spring Cloud",
-        "📱 Développement mobile cross-platform",
-        "🎨 UI/UX Design moderne",
-        "🤝 Contribution Open Source"
-    ],
-    
-    funFact: "Je transforme le café ☕ en code élégant 💻"
-};
+<div align="center">
+
+### 👩‍💻 Je suis **Kaouthar Elmansouri**  
+#### 🌍 Développeuse Full Stack basée à Casablanca, Maroc 🇲🇦  
+
+💼 **Actuellement chez [Jbel Nour](https://github.com/kaouthar-el)**  
+🎓 **Bac+2 en Développement Informatique**  
+💡 Passionnée par la **création d’applications web et mobiles** modernes, performantes et intuitives.  
+
+</div>
+
+---
+
+### 🚀 Ce que je fais
+- 🖥️ **Développement Web Frontend** : React, Angular, Tailwind CSS, Bootstrap  
+- ⚙️ **Développement Backend** : Node.js, Laravel, Spring Boot  
+- 🗄️ **Bases de données** : MySQL, Oracle, SQLite  
+- 📱 **Développement Mobile** : React Native, Flutter  
+- 🎨 **Design UX/UI** : interfaces modernes et responsives  
+
+---
+
+### 🎯 Objectifs Actuels
+- 🔹 Approfondir mes connaissances en **microservices (Spring Cloud)**  
+- 🔹 Créer des **applications cross-platform** performantes  
+- 🔹 Contribuer à des **projets open source**  
+- 🔹 Améliorer mes compétences en **architecture logicielle et DevOps**  
+
+---
+
+### 🌟 Fun Fact
+> ☕ Je transforme le **café** en **code élégant** — avec une touche de créativité et beaucoup de passion 💖  
+
+---
+
+<div align="center">
+  
+</div>
+
 ```
 
 ---
