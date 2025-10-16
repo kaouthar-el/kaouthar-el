@@ -1,105 +1,188 @@
-<!-- 💫 Elegant GitHub Profile README for Kawtar Elmansouri -->
-
 <div align="center">
 
-# 🌸 Hi, I'm **Kawtar Elmansouri** 💻  
-### Full Stack Developer | Java • React • Spring Boot  
-
-💡 Passionate about building clean, scalable, and user-friendly applications.  
-🌱 Currently exploring **React Native** and **Microservices Architecture**.  
-
----
+<!-- Header avec animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Kawtar%20Elmansouri&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=51&descSize=18"/>
 
 </div>
 
-## 🧠 About Me
+<div align="center">
+  
+### 👋 Bienvenue sur mon profil !
 
-- 🎓 Software Engineer specialized in **Java and Web Development**.  
-- 💻 Building full-stack web & mobile apps using **Spring Boot**, **React**, and **Laravel**.  
-- ✨ I love **UI design**, **clean architecture**, and **team collaboration**.  
-- ⚡ Fun fact: I turn coffee ☕ into elegant code 💻.
+💼 **Développeuse Full Stack** chez **Jbel Nour** | 🎓 **Bac+2** en Développement Informatique  
+💡 Passionnée par la création d'applications web et mobiles élégantes et performantes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtar-elmansouri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawtar.elmansouri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawtarelmansouri)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 💫 À Propos
 
-### 💬 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQL"/>
-</p>
+```typescript
+const kawtar = {
+    role: "Full Stack Developer",
+    company: "Jbel Nour",
+    experience: "1 an",
+    location: "Casablanca, Maroc 🇲🇦",
+    education: "Bac+2 en Développement Informatique",
+    
+    expertise: {
+        mobile: ["React Native", "Flutter", "Expo"],
+        frontend: ["React", "Angular", "HTML/CSS", "Tailwind CSS"],
+        backend: ["Node.js", "Laravel", "Spring Boot", "PHP"],
+        databases: ["MySQL", "Oracle", "SQLite"]
+    },
+    
+    currentFocus: [
+        "🚀 Microservices avec Spring Cloud",
+        "📱 Développement mobile cross-platform",
+        "🎨 UI/UX Design moderne",
+        "🤝 Contribution Open Source"
+    ],
+    
+    funFact: "Je transforme le café ☕ en code élégant 💻"
+};
+```
+
+---
+
+## 🛠️ Stack Technique
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Frontend & Mobile
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,flutter" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</div>
+
+</td>
+<td align="center" width="50%">
 
 ### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" alt="Oracle DB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="NodeJS"/>
-</p>
 
-### 🎨 Frontend & UI
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" alt="Tailwind CSS"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,spring,mysql,sqlite" />
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+</div>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman"/>
-</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
----
+### 💻 Langages
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawtarelmansouri&show_icons=true&theme=rose_pine&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawtarelmansouri&layout=compact&theme=rose_pine&hide_border=true" height="165" />
-</p>
+</td>
+<td align="center" width="50%">
+
+### 🧰 Outils & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Focus
+## 📊 Statistiques GitHub
 
-- 🚀 Mastering **React Native & Expo**
-- 🔍 Exploring **Spring Cloud & Microservices**
-- 🤝 Collaborating on **Open Source Projects**
-- 💬 Sharing knowledge and helping other developers
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kawtarelmansouri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kawtarelmansouri&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawtarelmansouri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kawtarelmansouri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
 
-## 💌 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kawtarelmansouri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kawtarelmansouri&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
+## 🏆 Réalisations
 
-<p align="center">
-  🌷 *Crafted with love by Kawtar Elmansouri*
-</p>
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=kawtarelmansouri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 💼 Expérience Professionnelle
+
+<table>
+<tr>
+<td>
+  
+**💻 Développeuse Full Stack** | [Jbel Nour](https://github.com/kawtarelmansouri)  
+📅 *2024 - Présent* | 📍 Casablanca, Maroc
+
+- 📱 Développement d'applications mobiles avec **React Native** et **Flutter**
+- 🌐 Création de sites web dynamiques avec **React**, **Laravel** et **Node.js**
+- 🎨 Design d'interfaces utilisateur modernes et responsive
+- 🔧 Intégration d'APIs RESTful et gestion de bases de données
+- 🤝 Collaboration en équipe et méthodologie Agile
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Objectifs Actuels
+
+<div align="center">
+
+| 🚀 Apprentissage | 🔨 Projets | 🌟 Communauté |
+|:---:|:---:|:---:|
+| Microservices Architecture | Apps Cross-Platform | Open Source |
+| Spring Cloud | Portfolio Personnel | Mentorat |
+| DevOps & CI/CD | E-Commerce Platform | Tech Blogging |
+
+</div>
+
+---
+
+## 📈 Activité de Développement
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+### 📫 Contactez-moi
+
+*Je suis toujours ouverte aux nouvelles opportunités et collaborations !*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawtar_Elmansouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtar-elmansouri)
+[![Email](https://img.shields.io/badge/Email-kawtar.elmansouri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawtar.elmansouri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kawtarelmansouri)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=kawtarelmansouri&label=Vues%20du%20Profil&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
+
+**✨ Créé avec 💖 par Kawtar Elmansouri**
+
+</div>
