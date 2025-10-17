@@ -154,11 +154,6 @@ mindmap
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kaouthar-el&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaouthar-el&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />
-</picture>
-
 </div>
 
 ---
@@ -233,14 +228,4 @@ Vous avez un projet en tête ? Une question ? N'hésitez pas à me contacter !
 
 </div>
 
----
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
-
-**✨ Créé avec 💖 par Kawtar Elmansouri**
-
-![](https://komarev.com/ghpvc/?username=kaouthar-el&color=F85D7F&style=flat-square&label=Visiteurs)
-
-</div>
