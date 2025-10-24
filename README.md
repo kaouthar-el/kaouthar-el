@@ -127,37 +127,6 @@ mindmap
 
 </div>
 
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F&hide=contribs">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaouthar-el&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F&hide=contribs" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaouthar-el&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaouthar-el&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />
-</picture>
-
-</div>
-
-<div align="center">
-
-### 📈 Activité & Langages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaouthar-el&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
-</picture>
-
-</div>
-
----
-
 
 ## 💼 Expérience Professionnelle
 
