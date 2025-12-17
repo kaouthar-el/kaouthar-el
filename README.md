@@ -137,7 +137,7 @@ mindmap
 <td align="center" width="100%">
   
 **💻 Développeuse Full Stack** | Jbel Nour  
-📅 *2024 - Présent* | 📍 Casablanca, Maroc
+📅 *2024 - Présent* | 📍 Mohammedia, Maroc
 
 </td>
 </tr>
